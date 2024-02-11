@@ -31,7 +31,7 @@ SET SaleDateConverted = Convert(Date, SaleDate);
 
 --------------------------------------------------
 
---Popuate Property Address data
+--Populate Property Address data
 
 
 Select * 
